@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/satnalika-shubham">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="medium.com/@satnalika.shubham">
+    <a href="https://www.medium.com/@satnalika.shubham">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://twitter.com/s_satnalika">
@@ -16,7 +16,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Satnalika</h1>
 <h3 align="center">Software Developer</h3>
-📝 I regularly write articles on <a href="medium.com/@satnalika.shubham"> Medium.com/@satnalika.shubham </a>
+📝 I regularly write articles on <a href="https://www.medium.com/@satnalika.shubham"> Medium.com/@satnalika.shubham </a>
 
 📫 How to reach me: satnalika.shubham@gmail.com
 
